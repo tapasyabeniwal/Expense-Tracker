@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+#expense-form {
+    margin-bottom: 20px;
+}
+
+#expense-table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#expense-table th, #expense-table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+#expense-table th {
+    background-color: #f0f0f0;
+}
